@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mernstack/static/css/main.3f6a7c0c.css",
+    "main.js": "/mernstack/static/js/main.d0032116.js",
+    "static/js/787.1ed0c42c.chunk.js": "/mernstack/static/js/787.1ed0c42c.chunk.js",
+    "static/media/shoaib.jpg": "/mernstack/static/media/shoaib.35f3870ba580d4282938.jpg",
+    "static/media/DoctorStep.PNG": "/mernstack/static/media/DoctorStep.2e06500adfff2a7c7bfc.PNG",
+    "static/media/MegaKit.PNG": "/mernstack/static/media/MegaKit.c903cfdcf08261ada493.PNG",
+    "static/media/Adding.PNG": "/mernstack/static/media/Adding.3be813c2146ca3cc3242.PNG",
+    "static/media/boy.png": "/mernstack/static/media/boy.83f9f99f831153c41aae.png",
+    "static/media/todo.PNG": "/mernstack/static/media/todo.5000c4df4efa4b2a58e7.PNG",
+    "static/media/profile1.jpg": "/mernstack/static/media/profile1.5451b5f83dc11f81c2a7.jpg",
+    "static/media/glassesimoji.png": "/mernstack/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/profile2.jpg": "/mernstack/static/media/profile2.1b7154f1ce43792ad8e2.jpg",
+    "static/media/profile3.jpg": "/mernstack/static/media/profile3.2969ab4444ef4e9f39ee.jpg",
+    "static/media/thumbup.png": "/mernstack/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/mernstack/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/mernstack/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/mernstack/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/mernstack/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/mernstack/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/mernstack/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/mernstack/index.html",
+    "main.3f6a7c0c.css.map": "/mernstack/static/css/main.3f6a7c0c.css.map",
+    "main.d0032116.js.map": "/mernstack/static/js/main.d0032116.js.map",
+    "787.1ed0c42c.chunk.js.map": "/mernstack/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f6a7c0c.css",
+    "static/js/main.d0032116.js"
+  ]
+}
